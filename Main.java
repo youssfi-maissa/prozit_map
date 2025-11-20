@@ -7,7 +7,7 @@ public class Main {
         Departement d1 = new Departement(1, "Informatique", 30);
         Departement d2 = new Departement(2, "RH", 10);
 
-        Employe e1 = new Employe(101, "Ali", "Sami");
+        Employe e1 = new Employe(101, "Ali", "ouissale");
         Employe e2 = new Employe(102, "Sara", "Nour");
         Employe e3 = new Employe(103, "Moussa", "Karim");
 
